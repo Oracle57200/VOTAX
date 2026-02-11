@@ -27,26 +27,6 @@
     const VOTAX = {
         version: '3.0.0',
         
-        // ===== Internal State =====
-        /** @type {Record<string, Array>} */
-        _store: {},
-        /** @type {Record<string, object>} */
-        _templates: {},
-        /** @type {Record<string, Record<string, Function[]>>} */
-        _hooks: {},
-        /** @type {Record<string, Record<string, Array>>} */
-        _relations: {},
-        /** @type {Record<string, Record<string, Function>>} */
-        _computed: {},
-        /** @type {Array} */
-        _history: [],
-        /** @type {number} */
-        _uidCounter: 0,
-        /** @type {Record<string, number>} */
-        _meta: {},
-        /** @type {string} */
-        _dbName: 'votax-db',
-        
         // =========================
         // Utility
         // =========================
