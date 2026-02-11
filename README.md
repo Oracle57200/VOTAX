@@ -10,17 +10,7 @@ sync — all in a single ~40KB library.
 
 **Via CDN (jsDelivr)**
 ```html
-<script src="https://cdn.jsdelivr.net/gh/yourusername/votax@3.0.0/votax.js"></script>
-```
-
-**Via npm (coming soon)**
-```bash
-npm install votax
-```
-
-**Local File**
-```html
-<script src="votax.js"></script>
+<script src="CDN link"></script>
 ```
 
 ### Hello World
