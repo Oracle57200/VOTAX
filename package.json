@@ -1,0 +1,29 @@
+{
+  "name": "votax",
+  "version": "3.0.0",
+  "description": "Lightweight CRUD + GSAP-style Animation Helpers",
+  "main": "votax.js",
+  "types": "votax.d.ts",
+  "files": [
+    "votax.js",
+    "votax.min.js",
+    "votax.d.ts",
+    "README.md"
+  ],
+  "keywords": [
+    "crud",
+    "database",
+    "animation",
+    "gsap",
+    "validation",
+    "persistence"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/votax.git"
+  },
+  "unpkg": "votax.min.js",
+  "jsdelivr": "votax.min.js"
+}
