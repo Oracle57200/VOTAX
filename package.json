@@ -1,5 +1,5 @@
 {
-  "name": "votax",
+  "name": "@oracle57200/vpower",
   "version": "3.0.0",
   "description": "Lightweight CRUD",
   "main": "votax.js",
